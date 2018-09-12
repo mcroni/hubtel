@@ -16,7 +16,7 @@ this reveals the various params needed for the various methods in the api ```dir
 ```
 from hubtel import Hubtel
 p = Hubtel("username","password","merchant")
-request = p.receive("kojo mcroni","027180861x","kojo_mcroni@xxx.com","tigo-gh",5,"http://xxxx.com/callback","for lola rae",fees=True,cl_reg)
+request = p.receive("kojo mcroni","027180861x","kojo_mcroni@xxx.com","tigo-gh",5,"http://xxxx.com/callback","for lola rae",fees=True,"reference")
   
 print(request)
 
