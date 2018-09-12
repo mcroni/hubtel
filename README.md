@@ -22,8 +22,13 @@ print(request)
 
 ```
 
-
-
+### Supported APIs
+* Receive Mobile Money
+* Send Mobile Money
+* Check Momo Trans Status
+* Refund
+* Determine Send Money Charge
+* Confirm Transaction
 
 
 
