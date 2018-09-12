@@ -2,10 +2,12 @@ This is an Unofficial Python interface for the Hubtel Payment API.
 Contributed by Kojo Mcroni
 
 
+### Installation
+To install simple type ```pip install hubtel```
 
 
 #### Receive MOMO
-Yo
+
 [You can find exclusive documentation on Hubtel's website,, here ](https://developers.hubtel.com/documentations/merchant-account-api#receive-money)
 ```
 import Hubtel
@@ -15,3 +17,9 @@ request = p.receive("kojo mcroni","027180861x","kojo_mcroni@xxx.com","tigo-gh",5
 print(request)
 
 ```
+
+
+
+
+
+
