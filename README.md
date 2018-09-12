@@ -1,10 +1,12 @@
-A Python interface for the Hubtel Payment API.
+This is an Unofficial Python interface for the Hubtel Payment API.
 Contributed by Kojo Mcroni
 
 
 
 
-### Receive MOMO
+#### Receive MOMO
+Yo
+[You can find exclusive documentation on Hubtel's website,, here ](https://developers.hubtel.com/documentations/merchant-account-api#receive-money)
 ```
 import Hubtel
 p = Hubtel("username","password","merchant")
